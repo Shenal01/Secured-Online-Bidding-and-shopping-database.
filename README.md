@@ -8,6 +8,7 @@
   > - stored procedures
   > - triggers
   > - views
+  > - indexes
   > - functions
   > - constraints
 > 
